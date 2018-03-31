@@ -1,0 +1,938 @@
+ INTERIOR - LIFEBOAT 
+ 
+ INTERIOR - LIFEBOAT 
+ INTERIOR - LIFEBOAT 
+ INTERIOR - LIFEBOAT 
+. Trying to distract the monster away from the cat, Roby TAPS ON THE 
+ INTERIOR - LIFEBOAT 
+ INTERIOR - LIFEBOAT 
+ EXTERIOR - SPACE 
+ INTERIOR - LIFEBOAT 
+. AN EXPANDING ORANGE FIREBALL WITH PIECES OF METAL FLYING IN ALL 
+ EXTERIOR - SPACE 
+ INTERIOR - LIFEBOAT 
+ EXTERIOR - SPACE 
+ INTERIOR - LIFEBOAT 
+ INTERIOR - LIFEBOAT 
+ 
+ INTERIOR - PASSAGEWAY 
+ INTERIOR - LIFEBOAT 
+ 
+ INTERIOR - PASSAGEWAY 
+ 
+ 
+ 
+ 
+ 
+ 
+. THE CREATURE IS WAITING AT THE OTHER END OF THE PASSAGEWAY, INSIDE THE 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+. At that moment the creature TAKES A BITE OUT OF HUNTER, WHO SCREAMS IN 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - LIFEBOAT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ HUNTER (CONT'D) 
+ 
+ INTERIOR - CORRIDOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - CORRIDORS 
+ INTERIOR - CORRIDORS 
+ INTERIOR - CORRIDORS 
+ "CRITICAL DEPRESSURIZATION" 
+ INTERIOR - BRIDGE 
+ INTERIOR - BRIDGE 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ROBY (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ INTERIOR - CORRIDORS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ROBY (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ HUNTER (CONT'D) 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAUST (CONT'D) 
+ FAUST (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAUST (CONT'D) 
+ 
+ INTERIOR - CORRIDORS 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ FAUST (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - CORRIDORS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+! I don't know... I'm getting these (his voice straining) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BROUSSARD (CONT'D) 
+ 
+ INTERIOR - INFIRMARY 
+ 
+ 
+ 
+ INTERIOR - CORRIDOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ROBY & MELKONIS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - LABORATORY 
+ STANDARD (CONT'D) 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+. They rush to Broussard's prone form.  THE PARASITE IS GONE FROM HIS 
+ 
+ INTERIOR - INFIRMARY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - INFIRMARY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. image in vivid colors appears, depicting Broussard's HEAD AND UPPER Standard punches some buttons, and on the monitors, a kind of X-ray 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ROBY (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. each other, then STANDARD STEPS FORWARD AND SLAPS ROBY ACROSS THE Standard turns and looks at him.  For a long moment, the two men regard 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ INTERIOR - INFIRMARY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ BROUSSARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BROUSSARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ BROUSSARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BROUSSARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ ROBY (CONT'D) 
+ ROBY (CONT'D) 
+ ROBY (CONT'D) 
+ 
+ 
+ ROBY (CONT'D) 
+. A light on Roby's panel is FLASHING.  We can see that it is the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ ROBY (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ROBY (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MELKONIS (CONT'D) 
+ MELKONIS (CONT'D) 
+ 
+ STANDARD (CONT'D) 
+ STANDARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+. into the lock, and clouds of dust swirl in.  We hear the MOANING OF THE Ponderously, the outer lock door slides open.  ORANGE SUNLIGHT streams 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. THE WIND MOANS AND SCREAMS.  DUST BLOWS IN FRONT OF THE TINY GLIMMERING 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ EXTERIOR - "SNARK" 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ INTERIOR - BRIDGE 
+ EXTERIOR - SPACE 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ BROUSSARD (CONT'D) 
+ 
+ 
+ BROUSSARD (CONT'D) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTERIOR - BRIDGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
